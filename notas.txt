@@ -1,0 +1,13 @@
+O objetivo desse arquivo é servir como code base de configuração de ambientes
+
+ESLINT
+   npx eslint --init
+
+ Selecionar a opção
+ To check syntax, find problems , and enforce code style
+
+Selecionar a opção
+JavaScript modules
+
+Selecionar a opçao
+None of these para apis
